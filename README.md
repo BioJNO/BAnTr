@@ -1,2 +1,2 @@
 # BAnTr
-Scripts used in analysis and data vis of Barley Anther Transcriptome (BAnTr
+Scripts used in analysis and data visualisation of the Barley Anther Transcriptome (BAnTr)
